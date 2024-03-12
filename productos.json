@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2,
+    "title": "Nuevo Producto32",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Nuevo ",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Nuevo ",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "asasa ",
+    "description": "Descripción del nuevo producto",
+    "code": "NP001",
+    "price": 29.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ]
+  }
+]
