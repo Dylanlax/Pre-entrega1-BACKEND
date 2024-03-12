@@ -8,7 +8,7 @@ const PORT = 8080;
 let nextProductId = 1;
 
 
-// Middleware para parsear el cuerpo de las solicitudes como JSON
+
 app.use(express.json());
 
 // Rutas para los productos
@@ -197,7 +197,7 @@ cartsRouter.post('/:cid/product/:pid', async (req, res) => {
         const productosData = await fs.promises.readFile('productos.json', 'utf-8');
         const productos = JSON.parse(productosData);
 
-        // Verificar si el producto existe en productos.json
+        // Verificar si el producto existe
         const productExists = productos.some(product => String(product.id) === productId);
 
         if (!productExists) {
